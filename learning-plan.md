@@ -4,85 +4,93 @@
 **Track:** 产品研究方向（Product Research）
 **Daily Commitment:** ~2h
 **Start:** 2026-05-18
+**Strategy:** 均衡路线，AI 和 Web3 同步推进，4 周后做方向判断
 
 ---
 
 ## 学习定位
 
-不深入写代码，目标是**理解技术能做什么、边界在哪、怎么组合**。
-重点：概念理解 → 产品场景 → 技术选型判断力。
+初期对 AI 和 Web3 都不够了解，不急于选定方向。
+目标是 **4 周内对两边都有基本认知**，再判断真正的兴趣和擅长点在哪里。
 
 ---
 
-## Week 1：AI 基础（5/18 - 5/24）
+## Week 1：打基础（5/18 - 5/24）
 
-| 日 | Handbook 章节 | 重点 | 产出 |
-|---|-------------|------|------|
-| 5.18 | LLM | Token, Embedding, Transformer, Hallucination | daily note |
-| 5.19 | Prompt | Instruction, Few-shot, Structured Output | daily note |
-| 5.20 | Context + **Co-learning 活动** | Context window, System prompt | daily note + 活动证明 |
-| 5.21 | RAG | Embedding → 检索 → 生成的完整链路 | daily note |
-| 5.22 | Agent | Tool use, ReAct, 规划 vs 执行 | daily note |
-| 5.23-5.24 | 复习 + 本周实验 | 动手试一个 AI 产品拆解 | experiments/ |
-
-**WCB 任务：** ✅ 开营仪式已提交 | ⏳ 5.20 Co-learning（截止 5/22）
+| 日 | AI 侧 | Web3 侧 | 活动 |
+|---|-------|---------|------|
+| 5.18 | — | — | ✅ 开营 + Co-learning + 架构能力讲座 |
+| 5.19 | LLM 章 | — | 🎙 20:00 AI Agent 入门 |
+| 5.20 | Prompt 章 | 网络（Network） | 🎙 17:00 Web3 运行原理 + 19:00 Co-learning |
+| 5.21 | Context 章 | 密码学（Cryptography） | 🎙 20:00 AI 在 Web3 的应用 |
+| 5.22 | RAG 章 | 钱包（Wallet） | 🎙 19:00 Z.AI + 20:00 例会 |
+| 5.23-5.24 | 复习 | 智能合约（Smart Contract）概览 | 🎙 周六 Co-learning |
 
 ---
 
-## Week 2：AI 深化 + Web3 入门（5/25 - 5/31）
+## Week 2：深化（5/25 - 5/31）
 
-| 日 | Handbook 章节 | 重点 |
-|---|-------------|------|
-| 5.25 | Frameworks, Vibe Coding | LangChain/Eliza 做什么 |
-| 5.26 | MCP | 模型如何接外部工具 |
-| 5.27 | Evaluation, Fine-tuning, Inference | 模型上线全流程 |
-| 5.28 | Cryptography + Wallet | Web3 的钥匙和身份 |
-| 5.29 | Smart Contract + Network | 链上逻辑和网络结构 |
-| 5.30 | Dev Stack, Account Abstraction | 开发工具和用户体验 |
-| 5.31 | 本周复习 + 实验 | 拆解一个 Web3 产品 |
-
----
-
-## Week 3：AI × Web3 Bridge（6/1 - 6/7）
-
-| 日 | Handbook 章节 | 重点 |
-|---|-------------|------|
-| 6.1 | Chain-aware Context | AI 如何读懂链上数据 |
-| 6.2 | Web3 Tool Use | AI 调用合约/钱包 |
-| 6.3 | Agent Workflow + Agent Wallet | 自主 agent 的经济行为 |
-| 6.4 | Machine Payment, Settlement | AI 支付和结算 |
-| 6.5 | Agent Identity, Trust & Reputation | 链上身份和声誉 |
-| 6.6 | AI Oracle, Verifiable AI | AI 输出如何上链验证 |
-| 6.7 | 本周复习 | Bridge 全景图 |
+| 日 | AI 侧 | Web3 侧 |
+|---|-------|---------|
+| 5.25 | Agent | Dev Stack |
+| 5.26 | Frameworks | Account Abstraction |
+| 5.27 | MCP | DeFi 概览 |
+| 5.28 | Vibe Coding | Oracle + Indexing |
+| 5.29 | Evaluation | Security |
+| 5.30-5.31 | 复习 + 实验 | 复习 + 实验 |
 
 ---
 
-## Week 4：前沿 + Hackathon 准备（6/8 - 6/14）
+## Week 3：交叉（6/1 - 6/7）
 
-| 日 | Handbook 章节 | 重点 |
-|---|-------------|------|
-| 6.8 | AI Security, Privacy, Sovereignty | 安全与隐私 |
-| 6.9 | Governance AI, Decentralized AI | 治理与去中心化 |
-| 6.10-6.11 | Frontier Tracks | 选 2 条赛道深读 |
-| 6.12-6.13 | Hackathon 准备 | 选题、组队、原型思路 |
-| 6.14 | 结业整理 | 学习总结 + repo 收尾 |
+| 日 | 内容 |
+|---|------|
+| 6.1 | Chain-aware Context |
+| 6.2 | Web3 Tool Use |
+| 6.3 | Agent Workflow + Agent Wallet |
+| 6.4 | Machine Payment |
+| 6.5 | Agent Identity + Trust |
+| 6.6 | AI Oracle + Verifiable AI |
+| 6.7 | 复习：Bridge 全景图 |
 
 ---
 
-## 每日例行（Daily Ritual）
+## Week 4：前沿 + 收尾（6/8 - 6/14）
 
-1. **回顾**（5min）：昨天学了什么，有什么疑问
-2. **阅读**（60min）：当天 Handbook 章节 + 做笔记
-3. **关联**（20min）：和之前学的内容有什么联系
-4. **记录**（20min）：写 daily note，更新疑问列表
-5. **检查**（10min）：WCB 平台是否有新任务/活动
-6. **推送**（5min）：commit + push 到 GitHub
+| 日 | 内容 |
+|---|------|
+| 6.8 | AI Security + Privacy |
+| 6.9 | Governance AI + Decentralized AI |
+| 6.10-6.11 | Frontier Tracks（选 2 条） |
+| 6.12-6.13 | Hackathon 准备 |
+| 6.14 | 方向判断 + 结业总结 |
+
+---
+
+## 每日例行
+
+1. **回顾**（5min）：昨天学了什么
+2. **阅读**（60min）：AI + Web3 各一章
+3. **关联**（20min）：两边有什么交叉
+4. **记录**（20min）：daily note
+5. **检查**（10min）：WCB 新任务/活动
+6. **推送**（5min）：commit + push
+
+---
+
+## 4 周后的方向判断问题
+
+结束时问自己：
+- AI 和 Web3，哪个让我更想深挖？
+- 我最享受的是理解概念、拆解产品、还是动手 build？
+- Bridge 层（AI×Web3 交叉）是否是我最感兴趣的地带？
 
 ---
 
 ## 核心原则
 
-1. **模型输出不是事实** — LLM 是推理层，真相在数据层
-2. **边界比细节重要** — 先知道技术能/不能做什么，再深入
-3. **输出驱动学习** — 每学一个概念就产出一段笔记或实验
+1. **先广后深** — 初期不跳过任何一个模块
+2. **模型输出不是事实** — LLM 是推理层，真相在数据层
+3. **输出驱动学习** — 每学一个概念就产出一段笔记
 4. **公开积累** — repo 就是你的 proof-of-work
+5. **4 周后做判断** — 不急着选方向
