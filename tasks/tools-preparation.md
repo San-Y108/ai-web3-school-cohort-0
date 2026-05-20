@@ -2,7 +2,7 @@
 
 **任务:** Week 1｜前置准备｜完成课程工具准备  
 **WCB Task ID:** cmp3jypmh07s0n301e51hp6r3 (sort=970, 10pts)  
-**日期:** 2026-05-19
+**日期:** 2026-05-20
 
 ---
 
@@ -11,7 +11,7 @@
 | 工具 | 状态 | 用途 |
 |------|------|------|
 | **Telegram** | ✅ 已就绪 | 课程社群交流、每日打卡、Learning Agent 对话 |
-| **Zoom** | ⬜ 需安装 | 参加实时线上分享活动（今晚 20:00 Hermes Agent 入门） |
+| **Zoom** | ✅ 已安装 | 参加实时线上分享活动 |
 | **Google Calendar** | ✅ 已配置 | 课程日程管理，已添加"工作"日历 |
 | **GitHub** | ✅ 已就绪 | 学习仓库托管、任务证明提交 |
 
@@ -23,8 +23,7 @@
 - 用途：课程通知、社群答疑、协作讨论、Agent 交互
 
 **Zoom:**
-- 状态：macOS 未安装
-- 下一步：今晚活动前安装 `brew install --cask zoom`
+- 状态：✅ 已安装（通过 brew 安装，路径 /Applications/Zoom.us.app）
 - 用途：实时线上分享活动（Week 1 有 5 场以上）
 
 **Google Calendar / Apple Calendar:**
@@ -132,7 +131,7 @@
 - Apple Calendar（日程管理）
 
 ### 今日待完成 ⬜
-- [ ] Zoom 安装（今晚 20:00 前）
+- [x] Zoom 安装 ✅
 - [ ] MetaMask 或 Rabby 钱包安装（明日 Web3 实践前）
 
 ### 后续计划 ⬜
