@@ -145,6 +145,17 @@ AI 不能 → 签名、转账、授权、接触私钥/助记词
 
 ---
 
+### 8. AI 可交互学习产物 — AI Concept Coach
+
+| 文件 | 内容 |
+|------|------|
+| [tools/ai_concept_coach.py](tools/ai_concept_coach.py) | CLI 概念学习工具：输入概念名 → 解释、类比、检查题、反馈、下一步练习 |
+| [tasks/ai-interactive-learning-product.md](tasks/ai-interactive-learning-product.md) | 任务说明文档：工具介绍、AI 辅助 vs 人工修改、局限性 |
+
+**覆盖 6 个概念：** LLM、Prompt、Agent、Wallet、Smart Contract、Gas
+
+---
+
 ## 其他 Week 1 产出
 
 **前置准备任务（全部 APPROVED）：**
