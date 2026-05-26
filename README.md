@@ -156,6 +156,18 @@ AI 不能 → 签名、转账、授权、接触私钥/助记词
 
 ---
 
+### 9. 行业观察进阶 — 拆解 AI × Web3 项目
+
+| 文件 | 内容 |
+|------|------|
+| [tasks/ai-web3-project-teardown.md](tasks/ai-web3-project-teardown.md) | 拆解 Cobo Agentic Wallet + Hermes Agent：问题、AI/Web3 分工、可验证材料、学习收获 |
+
+**拆解对象：**
+- **Cobo Agentic Wallet** — 为 AI Agent 设计的链上钱包，核心是 Pact 授权协议
+- **Hermes Agent** — 通用 AI Agent 平台，核心是 Tool Calling + Skills + Memory
+
+---
+
 ## 其他 Week 1 产出
 
 **前置准备任务（全部 APPROVED）：**
@@ -185,6 +197,7 @@ AI 不能 → 签名、转账、授权、接触私钥/助记词
 | [daily/2026-05-22.md](daily/2026-05-22.md) | Web3 架构分享 |
 | [daily/2026-05-23.md](daily/2026-05-23.md) | 智能合约部署 |
 | [daily/2026-05-25.md](daily/2026-05-25.md) | AI 基础前三章学习 + 流程图完成 |
+| [daily/2026-05-26.md](daily/2026-05-26.md) | 受限 Web3 助手 + AI 学习产物 + 拆解 AI×Web3 项目 |
 
 ---
 
@@ -193,12 +206,13 @@ AI 不能 → 签名、转账、授权、接触私钥/助记词
 Week 1 完成了从零到一的基础搭建：
 - **AI 侧：** 理解了 LLM、Prompt、Context、RAG、Agent 的核心概念
 - **Web3 侧：** 完成了测试网交易、合约部署、账户类型比较
-- **交叉理解：** 画出了 AI×Web3 最小安全链路流程图
+- **交叉理解：** 画出了 AI×Web3 最小安全链路流程图；拆解了 Cobo Agentic Wallet 和 Hermes Agent，理解了"架构级权限限制 vs prompt 约束"
 - **工具链：** 配置了 Hermes Agent 作为学习助手，接入了 WCB API 和 GitHub
+- **产出：** 受限 Web3 助手设计文档 + CLI 原型、AI 概念教练 CLI、AI×Web3 项目拆解报告
 
 下一步：继续 Handbook AI 基础剩余章节（RAG、Agent、Frameworks 等），并开始 Week 2 的方向探索任务。
 
 ---
 
 *GitHub Repo: https://github.com/San-Y108/ai-web3-school-cohort-0*
-*Week 1 Proof-of-Work Pack — 2026-05-25*
+*Week 1 Proof-of-Work Pack — 2026-05-26*
