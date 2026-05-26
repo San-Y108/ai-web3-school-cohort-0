@@ -129,6 +129,22 @@ AI 生成说明（候选建议）
 
 ---
 
+### 7. 受限 Web3 助手设计与 CLI 原型
+
+| 文件 | 内容 |
+|------|------|
+| [tasks/limited-web3-assistant-workflow.md](tasks/limited-web3-assistant-workflow.md) | 受限合约交互检查助手设计文档（525 行，覆盖状态机、权限模型、Mermaid 流程图、案例演示、异常处理） |
+| [tools/limited_web3_assistant.py](tools/limited_web3_assistant.py) | CLI 原型：explain / checklist / calldata / verify / query（链上只读查询） |
+
+**核心设计：**
+```
+AI 辅助 → 解释操作、生成检查清单、指导验证
+AI 不能 → 签名、转账、授权、接触私钥/助记词
+人工确认 → 两个不可跳过的检查点（清单复核 + MetaMask 弹窗）
+```
+
+---
+
 ## 其他 Week 1 产出
 
 **前置准备任务（全部 APPROVED）：**
