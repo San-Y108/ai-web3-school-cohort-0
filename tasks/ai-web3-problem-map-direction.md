@@ -1,5 +1,7 @@
 ## AI × Web3 问题地图与主方向选择
 
+> 📊 **可视化图表**: [ai-web3-problem-map.html](./ai-web3-problem-map.html)
+
 ### 一、问题地图（5 个方向）
 
 **① Payment / Commerce / Settlement**
