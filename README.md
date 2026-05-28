@@ -225,6 +225,7 @@ Week 1 完成了从零到一的基础搭建：
 | [tasks/contribution-tracker-sketch.md](tasks/contribution-tracker-sketch.md) | DAO 贡献记录工作流草图 |
 | [tasks/agent-wallet-permission-policy.md](tasks/agent-wallet-permission-policy.md) | Agent 钱包权限策略：执行流程、Policy 设计、ERC-4337/Safe/Guard 解析 |
 | [tasks/bittensor-agent-threat-model.md](tasks/bittensor-agent-threat-model.md) | Bittensor Validator Agent 威胁模型：资产、攻击面、Policy 策略、低风险/高风险分级 |
+| [tasks/payment-commerce-flow.md](tasks/payment-commerce-flow.md) | 最小支付与商业流程拆解：7 环节 + x402 vs MPP 对比 |
 
 ---
 
