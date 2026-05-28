@@ -210,7 +210,21 @@ Week 1 完成了从零到一的基础搭建：
 - **工具链：** 配置了 Hermes Agent 作为学习助手，接入了 WCB API 和 GitHub
 - **产出：** 受限 Web3 助手设计文档 + CLI 原型、AI 概念教练 CLI、AI×Web3 项目拆解报告
 
-下一步：继续 Handbook AI 基础剩余章节（RAG、Agent、Frameworks 等），并开始 Week 2 的方向探索任务。
+下一步：继续 Week 2 剩余任务（Security/Privacy threat model、Payment/Commerce 拆解）。
+
+---
+
+## Week 2 产出
+
+| 文件 | 内容 |
+|------|------|
+| [tasks/ai-web3-problem-map-direction.md](tasks/ai-web3-problem-map-direction.md) | AI×Web3 问题地图与主方向选择（5方向，主线：Identity/Reputation） |
+| [tasks/ai-web3-problem-map.html](tasks/ai-web3-problem-map.html) | 可视化问题地图（深色主题 SVG） |
+| [tasks/week2-direction-research.md](tasks/week2-direction-research.md) | Week 2 方向研究索引 |
+| [tasks/agent-profile-sketch.md](tasks/agent-profile-sketch.md) | Hermes Agent profile 设计（8字段 + MCP vs A2A 对比） |
+| [tasks/contribution-tracker-sketch.md](tasks/contribution-tracker-sketch.md) | DAO 贡献记录工作流草图 |
+| [tasks/agent-wallet-permission-policy.md](tasks/agent-wallet-permission-policy.md) | Agent 钱包权限策略：执行流程、Policy 设计、ERC-4337/Safe/Guard 解析 |
+| [tasks/bittensor-agent-threat-model.md](tasks/bittensor-agent-threat-model.md) | Bittensor Validator Agent 威胁模型：资产、攻击面、Policy 策略、低风险/高风险分级 |
 
 ---
 
